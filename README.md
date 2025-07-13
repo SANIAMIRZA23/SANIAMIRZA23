@@ -20,12 +20,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Sania's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANIAIMIRZA23&show_icons=true&theme=radical&hide_border=true)
-
----
-
 ## 🚀 Fun Facts
 - 🧠 I love coding and solving challenges
 - 📚 Always curious to learn something new
